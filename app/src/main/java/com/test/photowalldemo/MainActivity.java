@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     private int mImageThumbSize;
     private int mImageThumbSpacing;
-
+//http://blog.csdn.net/guolin_blog/article/details/34093441参照地址
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
